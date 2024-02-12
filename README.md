@@ -16,6 +16,9 @@ Professionally, Gobind has experience as a Program Manager at The MedTech Actuat
 -----
 ### Blog Articles 📖
 <!-- MEDIUM-STORY-LIST:START -->
+- [Not Your Average HDB Resale Price Predictor](https://medium.com/@hargobind/not-your-average-hdb-resale-price-predictor-a0ea0c1fa6c2?source=rss-e3b133438689------2)
+- [Motivation, Efficiency, and the Hawthorne Experiments](https://medium.com/@hargobind/motivation-efficiency-and-the-hawthorne-experiments-edc68659f884?source=rss-e3b133438689------2)
+- [Working in Multicultural Teams](https://medium.com/@hargobind/working-in-multicultural-teams-64e91126aa4e?source=rss-e3b133438689------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ⏪ [earlier blog posts](https://medium.com/@hargobind)
