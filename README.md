@@ -2,7 +2,7 @@
 #### My name is Gobind, welcome to my GitHub page!
 
 -----
-Gobind is a highly skilled data science professional with a robust background in Machine Learning, Dashboarding, and Project Management. Fluent in Python, SQL, and various data science libraries, he has a proven track record in ETL processes, model building and communicating through impactful data-driven stories. 
+Gobind is a data science professional with a robust background in Machine Learning, Dashboarding, and Project Management. Fluent in Python, SQL, and various data science libraries, he has a proven track record in ETL processes, model building and communicating through impactful data-driven stories. 
 
 His education includes a Master of Data Science from Monash University and a Bachelor of Business (Accountancy) from RMIT University. Also complemented by a Data Science Bootcamp by Le Wagon Singapore. 
 
