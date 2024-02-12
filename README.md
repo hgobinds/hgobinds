@@ -20,12 +20,9 @@ Professionally, Gobind has experience as a Program Manager at The MedTech Actuat
 - [Motivation, Efficiency, and the Hawthorne Experiments](https://medium.com/@hargobind/motivation-efficiency-and-the-hawthorne-experiments-edc68659f884?source=rss-e3b133438689------2)
 - [Working in Multicultural Teams](https://medium.com/@hargobind/working-in-multicultural-teams-64e91126aa4e?source=rss-e3b133438689------2)
 <!-- MEDIUM-STORY-LIST:END -->
-
-⏪ [earlier blog posts](https://medium.com/@hargobind)
+⏪ [Earlier Blog Posts](https://medium.com/@hargobind)
 
 -----
-
-
 <!--
 **hgobinds/hgobinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
