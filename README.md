@@ -29,7 +29,6 @@ Professionally, Gobind has experience as a Program Manager at The MedTech Actuat
 <!-- MEDIUM-STORY-LIST:END -->
 ⏪ [Earlier Blog Posts](https://medium.com/@hargobind)
 
------
 <!--
 **hgobinds/hgobinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
