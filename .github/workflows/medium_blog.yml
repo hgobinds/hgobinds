@@ -16,4 +16,4 @@ jobs:
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
           #max_post_count: "3"
-          feed_list: "https://medium.com/feed/@hgobinds"
+          feed_list: "https://medium.com/feed/@hargobind"
