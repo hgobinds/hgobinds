@@ -15,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
-          #max_post_count: "3"
+          max_post_count: "3"
           feed_list: "https://medium.com/feed/@hargobind"
